@@ -34,9 +34,7 @@ This project serves as a demonstration of how to create an engaging gaming exper
 		<li>Import this project's files into Unity</li>
 		<li>Make sure all required packages and features are installed</li>
 		<li>Click "Run" to launch the application in the Unity environment</li>
-  	
-  	
-	</ol>
+  	  	</ol>
 	<h2>🎞Credits</h2>
 	<ul>
 		<li>Develop: [Izaque Laureano]</li>
