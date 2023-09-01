@@ -22,13 +22,12 @@ Welcome to the repository of the "Tha Flying Hero" project!
 "Tha Flying Hero" is a simple arcade game developed in Unity 3D. In this game, you control a hero who must dodge laser beams that spawn vertically from the right side of the screen. The hero remains stationary, but the background scenery is constantly in motion, creating the illusion that the hero is moving forward. This was made possible by using the Wrap mode: Repeat on the background and a script that keeps it moving continuously.
 
 This project serves as a demonstration of how to create an engaging gaming experience with simple resources, leveraging the power of Unity 3D to the fullest. Feel free to explore the source code, try out the game, and contribute to its development.</p>
-	<div classname = "jogo">
-	<img src="" alt="GIF animado">
-	</div>
+
 	<h2>🕹Gameplay</h2>
 	<p>O jogador deve ser movimentar para desviar dos raios que são spawnados pela a fase, e com o passar do tempo, será gerado novos obstaculos.</p>
  
  	<p>A player must move to dodge the lasers spawned by the level, and as time passes, new obstacles will be generated</p>
+  
 	<h2>💻Programming language</h2>
 	<p>O jogo foi desenvolvido utilizando a linguagem C#.</p>
  
