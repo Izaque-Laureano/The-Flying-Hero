@@ -23,6 +23,7 @@ Welcome to the repository of the "Tha Flying Hero" project!
 
 This project serves as a demonstration of how to create an engaging gaming experience with simple resources, leveraging the power of Unity 3D to the fullest. Feel free to explore the source code, try out the game, and contribute to its development.</p>
 
+
 	<h2>🕹Gameplay</h2>
  
 	<p>O jogador deve ser movimentar para desviar dos raios que são spawnados pela a fase, e com o passar do tempo, será gerado novos obstaculos.</p>
