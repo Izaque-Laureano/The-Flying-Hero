@@ -33,7 +33,7 @@ This project serves as a demonstration of how to create an engaging gaming exper
   	  	</ol>
 	<h2>🎞Credits</h2>
 	<ul>
-		<li>Develop: [Izaque Laureano]</li>
+		<li>👩‍💻Develop: [Izaque Laureano]</li>
 		<li>🎨Recursos gráficos: [Izaque Laureano]</li>
 	</ul>
 	
