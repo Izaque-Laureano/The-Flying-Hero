@@ -30,9 +30,7 @@ This project serves as a demonstration of how to create an engaging gaming exper
 		<li>Importe os arquivos deste projeto na Unity</li>
 		<li>Certifique-se de que todos os pacotes e recursos necessários estejam instalados</li>
 		<li>Clique em "Executar" para iniciar a aplicação no ambiente Unity</li>
-
-  
-  		<li>Open Unity Editor and create a new project</li>
+    		<li>Open Unity Editor and create a new project</li>
 		<li>Import this project's files into Unity</li>
 		<li>Make sure all required packages and features are installed</li>
 		<li>Click "Run" to launch the application in the Unity environment</li>
