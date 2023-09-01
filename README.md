@@ -24,23 +24,19 @@ Welcome to the repository of the "Tha Flying Hero" project!
 This project serves as a demonstration of how to create an engaging gaming experience with simple resources, leveraging the power of Unity 3D to the fullest. Feel free to explore the source code, try out the game, and contribute to its development.</p>
 
 
-	<h2>🕹Gameplay</h2>
- 
-	<p>O jogador deve ser movimentar para desviar dos raios que são spawnados pela a fase, e com o passar do tempo, será gerado novos obstaculos.</p>
- 
- 	<p>A player must move to dodge the lasers spawned by the level, and as time passes, new obstacles will be generated</p>
-  
-	<h2>💻Programming language</h2>
- 
+	<h2>💻Linguagem de Programação</h2>
 	<p>O jogo foi desenvolvido utilizando a linguagem C#.</p>
- 
- 	<p>The game was developed in C# language.</p>
- 
-	
-	<h2>🎞Credits</h2>
+	<h2>📄Instruções de instalação</h2>
+	<li>Abra o Unity Editor e crie um novo projeto</li>
+		<li>Importe os arquivos deste projeto na Unity</li>
+		<li>Certifique-se de que todos os pacotes e recursos necessários estejam instalados</li>
+		<li>Clique em "Executar" para iniciar a aplicação no ambiente Unity</li>
+	</ol>
+	<h2>🎞Créditos</h2>
 	<ul>
-		<li>👨‍💻Develop:[Izaque Laureano]</li>
-		<li>🎨Graphic resources:[Izaque Laureano]</li>
+		<li>Desenvolvedor: [Izaque Laureano]</li>
+		<li>🎶Recursos de áudio: [Áudios públicos]</li>
+		<li>🎨Recursos gráficos: [Elementos gráficos públicos e alguns originais]</li>
 	</ul>
 	
 </body>
