@@ -32,12 +32,13 @@ This project serves as a demonstration of how to create an engaging gaming exper
 	<p>O jogo foi desenvolvido utilizando a linguagem C#.</p>
  <p>The game was developed in C# language.</p>
 	<h2>📄Installation instructions</h2>
-	  <li>Abra o Unity Editor e crie um novo projeto</li>
+ 	<ol>
+	  	<li>Abra o Unity Editor e crie um novo projeto</li>
 		<li>Importe os arquivos deste projeto na Unity</li>
 		<li>Certifique-se de que todos os pacotes e recursos necessários estejam instalados</li>
 		<li>Clique em "Executar" para iniciar a aplicação no ambiente Unity</li>
 
-    <li>Open the Unity Editor and create a new project.</li>
+    		<li>Open the Unity Editor and create a new project.</li>
 		<li>Import the files from this project into Unity.</li>
 		<li>Ensure that all required packages and assets are installed.</li>
 		<li>Click "Run" to start the application within the Unity environment.</li>
