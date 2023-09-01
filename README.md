@@ -27,24 +27,26 @@ This project serves as a demonstration of how to create an engaging gaming exper
 	</div>
 	<h2>🕹Gameplay</h2>
 	<p>O jogador deve ser movimentar para desviar dos raios que são spawnados pela a fase, e com o passar do tempo, será gerado novos obstaculos.</p>
+ 
  	<p>A player must move to dodge the lasers spawned by the level, and as time passes, new obstacles will be generated</p>
 	<h2>💻Programming language</h2>
 	<p>O jogo foi desenvolvido utilizando a linguagem C#.</p>
+ 
  	<p>The game was developed in C# language.</p>
  
 	<h2>📄Installation instructions</h2>
- 	<ul>
+ 	
 	  	<li>Abra o Unity Editor e crie um novo projeto</li>
 		<li>Importe os arquivos deste projeto na Unity</li>
 		<li>Certifique-se de que todos os pacotes e recursos necessários estejam instalados</li>
 		<li>Clique em "Executar" para iniciar a aplicação no ambiente Unity</li>
-	</ul>
- 	<ul>
+	
+
     		<li>Open the Unity Editor and create a new project.</li>
 		<li>Import the files from this project into Unity.</li>
 		<li>Ensure that all required packages and assets are installed.</li>
 		<li>Click "Run" to start the application within the Unity environment.</li>
-	</ul>
+	
 	<h2>🎞Credits</h2>
 	<ul>
 		<li>Develop: [Izaque Laureano]</li>
